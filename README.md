@@ -4,4 +4,4 @@
 这是一个基于 HTML5 新特性 Canvas 的一个简易画图板。
 用户可以自己选择画笔颜色，宽度进行绘画。
 
-![img](https://github.com/jungeer/drawSomething/1.png)
+![img](https://github.com/jungeer/drawSomething/tree/master/img/1.png)
